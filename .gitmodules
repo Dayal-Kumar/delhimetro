@@ -1,0 +1,6 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "sha256_literal"]
+	path = sha256_literal
+	url = https://github.com/aguinet/sha256_literal.git
